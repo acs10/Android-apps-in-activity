@@ -1,6 +1,7 @@
 # Android-apps-in-activity
 
 Descrição do Projeto:
+
 Aplicação que coleta informações do dispositivo:
   - Status do Wi-Fi mudou ;
   - status (enabled/disabled);
